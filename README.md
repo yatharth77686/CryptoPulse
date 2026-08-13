@@ -7,10 +7,16 @@ CryptoPulse is an AI-powered crypto social intelligence platform that turns raw 
 **Features**
 
 **AI-Powered Sentiment Analysis**
-- CryptoBERT for cryptocurrency-specific sentiment analysis
-- FinBERT for financial sentiment analysis
-- Confidence scores for both models
-- Bullish, bearish, and neutral classification
+
+CryptoPulse uses two specialized transformer-based NLP models to analyze the sentiment of cryptocurrency-related social media posts:
+
+- **CryptoBERT** — A cryptocurrency-focused language model used to identify market-oriented sentiment such as bullish, bearish, or neutral signals from crypto-specific terminology and discussions.
+- **FinBERT** — A financial-domain language model that provides an additional sentiment perspective based on financial language and market context.
+- **Dual-model analysis** — Both models analyze the same post independently, allowing CryptoPulse to compare crypto-specific and broader financial sentiment.
+- **Confidence scoring** — Each prediction includes a confidence score, providing an indication of how strongly the model supports its classification.
+- **Structured sentiment output** — Results are normalized into consistent sentiment labels and confidence values for use throughout the dashboard.
+- **Signal integration** — Sentiment confidence from CryptoBERT is incorporated into the platform's overall signal-strength calculation, alongside social influence.
+- **Manual & live analysis** — The same sentiment pipeline can analyze both continuously ingested tweets and posts submitted manually through the analysis interface.
 
 **External APIs**
 
