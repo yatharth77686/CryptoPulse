@@ -1,53 +1,14 @@
-annotated-doc==0.0.5
-annotated-types==0.8.0
-anyio==4.14.2
-certifi==2026.7.22
-charset-normalizer==3.4.9
-click==8.4.2
 fastapi==0.141.1
-filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1785376317471/work
-fsspec @ file:///home/conda/feedstock_root/build_artifacts/fsspec_1785325143698/work
-gmpy2 @ file:///Users/runner/miniforge3/conda-bld/gmpy2_1773245069871/work
-h11==0.16.0
-hf-xet==1.6.0
-httpcore==1.0.9
-httpx==0.28.1
-huggingface_hub==1.27.0
-idna==3.18
-importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_importlib-metadata_1779719562/work
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_jinja2_1764517220/work
-joblib==1.5.3
-markdown-it-py==4.2.0
-MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1772445112005/work
-mdurl==0.1.2
-mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1773661943568/work
-narwhals==2.24.0
-networkx @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_networkx_1765215107/work
-numpy @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_numpy_1779169256/work/dist/numpy-2.4.6-cp311-cp311-macosx_11_0_x86_64.whl#sha256=6497b0b05d510e5d70b193c5f82bd54904ac825bdaf0c1f1782d77934f05f094
-opentelemetry-api @ file:///home/conda/feedstock_root/build_artifacts/opentelemetry-api_1784225694496/work
-packaging==26.3
-pydantic==2.13.4
-pydantic_core==2.46.4
-Pygments==2.20.0
-python-dotenv==1.2.2
-PyYAML==6.0.3
-regex==2026.7.19
-requests==2.34.2
-rich==15.0.0
-safetensors==0.8.0
-scikit-learn==1.9.0
-scipy==1.17.1
-shellingham==1.5.4
-starlette==1.6.0
-sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1771952240620/work
-threadpoolctl==3.6.0
-tokenizers==0.22.2
-torch @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7918qdo__j/croot/libtorch_1744403106694/work
-tqdm==4.70.0
-transformers==5.15.0
-typer==0.27.1
-typing-inspection==0.4.3
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1783002732/work
-urllib3==2.7.0
 uvicorn==0.52.1
-zipp @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_zipp_1779159948/work
+pydantic==2.13.4
+python-dotenv==1.2.2
+requests==2.34.2
+
+transformers==5.15.0
+torch==2.5.1
+safetensors==0.8.0
+huggingface_hub==1.27.0
+tokenizers==0.22.2
+
+scikit-learn==1.9.0
+numpy==2.4.6
