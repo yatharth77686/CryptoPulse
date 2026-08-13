@@ -278,6 +278,8 @@ Create a `.env` file and add:
 
 ```
 TWITTERAPI_IO_KEY=your_api_key_here
+COINMARKETCAP_API_KEY=your_coinmarketcap_api_key
+
 ```
 
 Do not commit the `.env` file.
