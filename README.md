@@ -12,6 +12,12 @@ CryptoPulse is an AI-powered crypto social intelligence platform that turns raw 
 - Confidence scores for both models
 - Bullish, bearish, and neutral classification
 
+**External APIs**
+
+- **TwitterAPI.io** — Fetches crypto-related tweets for the live/continuous ingestion pipeline, supplying the social media data analyzed every 10 minutes.
+- **CoinMarketCap API** — Provides cryptocurrency metadata and market information, supporting asset identification and classification.
+- **Binance Market Data API** — Provides historical price/candle data used to calculate 5-minute, 15-minute, and 1-hour market reactions following a post.
+
 **Cryptocurrency Detection**
 - Automatically identifies cryptocurrencies mentioned in posts
 - Determines a primary asset
@@ -175,6 +181,7 @@ NLP / AI
 
 Data & APIs
 - TwitterAPI.io
+- CoinMarketCap API
 - Binance Market Data API
 - REST APIs
 
