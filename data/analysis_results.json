@@ -1,0 +1,164 @@
+[
+  {
+    "post_id": "1",
+    "author": "elonmusk",
+    "text": "Bitcoin could become increasingly important as a digital asset.",
+    "timestamp": "2026-08-10T18:30:00Z",
+    "assets": [
+      "BTC"
+    ],
+    "sentiment": {
+      "cryptobert": {
+        "label": "bullish",
+        "confidence": 0.5347
+      },
+      "finbert": {
+        "label": "neutral",
+        "confidence": 0.7125
+      }
+    },
+    "market_reaction": {
+      "BTC": {
+        "symbol": "BTC",
+        "post_timestamp": "2026-08-10T18:30:00Z",
+        "base_price": 118500,
+        "5m": {
+          "price": 118800,
+          "change_percent": 0.253
+        },
+        "15m": {
+          "price": 119200,
+          "change_percent": 0.591
+        },
+        "1h": {
+          "price": 120100,
+          "change_percent": 1.35
+        }
+      }
+    }
+  },
+  {
+    "post_id": "2",
+    "author": "crypto_analyst",
+    "text": "Ethereum is showing strong momentum after the latest market move.",
+    "timestamp": "2026-08-10T18:35:00Z",
+    "assets": [
+      "ETH"
+    ],
+    "sentiment": {
+      "cryptobert": {
+        "label": "neutral",
+        "confidence": 0.5899
+      },
+      "finbert": {
+        "label": "bullish",
+        "confidence": 0.9529
+      }
+    },
+    "market_reaction": {
+      "ETH": {
+        "symbol": "ETH",
+        "post_timestamp": "2026-08-10T18:35:00Z",
+        "base_price": 4310,
+        "5m": {
+          "price": 4330,
+          "change_percent": 0.464
+        },
+        "15m": {
+          "price": 4360,
+          "change_percent": 1.16
+        },
+        "1h": {
+          "price": 4385,
+          "change_percent": 1.74
+        }
+      }
+    }
+  },
+  {
+    "post_id": "4",
+    "author": "elonmusk",
+    "text": "Dogecoin is still one of the funniest cryptocurrencies.",
+    "timestamp": "2026-08-10T18:45:00Z",
+    "assets": [
+      "DOGE"
+    ],
+    "sentiment": {
+      "cryptobert": {
+        "label": "bearish",
+        "confidence": 0.3689
+      },
+      "finbert": {
+        "label": "neutral",
+        "confidence": 0.9029
+      }
+    },
+    "market_reaction": {
+      "DOGE": {
+        "symbol": "DOGE",
+        "post_timestamp": "2026-08-10T18:45:00Z",
+        "base_price": 0.245,
+        "5m": {
+          "price": 0.247,
+          "change_percent": 0.816
+        },
+        "15m": {
+          "price": 0.25,
+          "change_percent": 2.041
+        },
+        "1h": {
+          "price": 0.252,
+          "change_percent": 2.857
+        }
+      }
+    }
+  },
+  {
+    "post_id": "6",
+    "author": "crypto_news",
+    "text": "Bitcoin and Ethereum both experienced increased trading volume today.",
+    "timestamp": "2026-08-10T18:55:00Z",
+    "assets": [
+      "BTC",
+      "ETH"
+    ],
+    "sentiment": {
+      "cryptobert": {
+        "label": "neutral",
+        "confidence": 0.6617
+      },
+      "finbert": {
+        "label": "bullish",
+        "confidence": 0.9574
+      }
+    },
+    "market_reaction": {
+      "BTC": {
+        "symbol": "BTC",
+        "post_timestamp": "2026-08-10T18:55:00Z",
+        "base_price": 120100,
+        "5m": {
+          "price": 120100,
+          "change_percent": 0.0
+        },
+        "15m": {
+          "price": 120100,
+          "change_percent": 0.0
+        }
+      },
+      "ETH": {
+        "symbol": "ETH",
+        "post_timestamp": "2026-08-10T18:55:00Z",
+        "base_price": 4385,
+        "5m": {
+          "price": 4385,
+          "change_percent": 0.0
+        },
+        "15m": {
+          "price": 4385,
+          "change_percent": 0.0
+        }
+      }
+    }
+  }
+]

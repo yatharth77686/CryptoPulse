@@ -1,0 +1,62 @@
+[
+  {
+    "symbol": "BTC",
+    "timestamp": "2026-08-10T18:30:00Z",
+    "price": 118500
+  },
+  {
+    "symbol": "BTC",
+    "timestamp": "2026-08-10T18:35:00Z",
+    "price": 118800
+  },
+  {
+    "symbol": "BTC",
+    "timestamp": "2026-08-10T18:45:00Z",
+    "price": 119200
+  },
+  {
+    "symbol": "BTC",
+    "timestamp": "2026-08-10T19:30:00Z",
+    "price": 120100
+  },
+  {
+    "symbol": "ETH",
+    "timestamp": "2026-08-10T18:35:00Z",
+    "price": 4310
+  },
+  {
+    "symbol": "ETH",
+    "timestamp": "2026-08-10T18:40:00Z",
+    "price": 4330
+  },
+  {
+    "symbol": "ETH",
+    "timestamp": "2026-08-10T18:50:00Z",
+    "price": 4360
+  },
+  {
+    "symbol": "ETH",
+    "timestamp": "2026-08-10T19:35:00Z",
+    "price": 4385
+  },
+  {
+    "symbol": "DOGE",
+    "timestamp": "2026-08-10T18:45:00Z",
+    "price": 0.245
+  },
+  {
+    "symbol": "DOGE",
+    "timestamp": "2026-08-10T18:50:00Z",
+    "price": 0.247
+  },
+  {
+    "symbol": "DOGE",
+    "timestamp": "2026-08-10T19:00:00Z",
+    "price": 0.250
+  },
+  {
+    "symbol": "DOGE",
+    "timestamp": "2026-08-10T19:45:00Z",
+    "price": 0.252
+  }
+]

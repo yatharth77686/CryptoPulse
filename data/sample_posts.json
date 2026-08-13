@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "author": "elonmusk",
+    "text": "Bitcoin could become increasingly important as a digital asset.",
+    "created_at": "2026-08-10T18:30:00Z"
+  },
+  {
+    "id": "2",
+    "author": "crypto_analyst",
+    "text": "Ethereum is showing strong momentum after the latest market move.",
+    "created_at": "2026-08-10T18:35:00Z"
+  },
+  {
+    "id": "3",
+    "author": "tech_news",
+    "text": "AI infrastructure spending continues to increase worldwide.",
+    "created_at": "2026-08-10T18:40:00Z"
+  },
+  {
+    "id": "4",
+    "author": "elonmusk",
+    "text": "Dogecoin is still one of the funniest cryptocurrencies.",
+    "created_at": "2026-08-10T18:45:00Z"
+  },
+  {
+    "id": "5",
+    "author": "market_watch",
+    "text": "The stock market remained relatively stable today.",
+    "created_at": "2026-08-10T18:50:00Z"
+  },
+  {
+    "id": "6",
+    "author": "crypto_news",
+    "text": "Bitcoin and Ethereum both experienced increased trading volume today.",
+    "created_at": "2026-08-10T18:55:00Z"
+  }
+]

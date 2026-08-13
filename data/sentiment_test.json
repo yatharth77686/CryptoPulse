@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "text": "Bitcoin is breaking resistance and looks ready for a huge rally!",
+    "actual_sentiment": "bullish"
+  },
+  {
+    "id": 2,
+    "text": "Ethereum adoption continues to grow and the future looks very promising.",
+    "actual_sentiment": "bullish"
+  },
+  {
+    "id": 3,
+    "text": "The crypto market is crashing and investors are losing confidence.",
+    "actual_sentiment": "bearish"
+  },
+  {
+    "id": 4,
+    "text": "Bitcoin dropped sharply after sellers entered the market.",
+    "actual_sentiment": "bearish"
+  },
+  {
+    "id": 5,
+    "text": "Bitcoin traded within a narrow range today.",
+    "actual_sentiment": "neutral"
+  },
+  {
+    "id": 6,
+    "text": "Ethereum price remained mostly unchanged during the session.",
+    "actual_sentiment": "neutral"
+  },
+  {
+    "id": 7,
+    "text": "DOGE is gaining momentum as trading volume increases.",
+    "actual_sentiment": "bullish"
+  },
+  {
+    "id": 8,
+    "text": "Bitcoin investors are becoming increasingly worried about further losses.",
+    "actual_sentiment": "bearish"
+  },
+  {
+    "id": 9,
+    "text": "The market is waiting for the next major economic announcement.",
+    "actual_sentiment": "neutral"
+  },
+  {
+    "id": 10,
+    "text": "Ethereum surged after strong buying pressure entered the market.",
+    "actual_sentiment": "bullish"
+  },
+  {
+    "id": 11,
+    "text": "Solana fell significantly after a wave of selling.",
+    "actual_sentiment": "bearish"
+  },
+  {
+    "id": 12,
+    "text": "Bitcoin remained stable despite low trading activity.",
+    "actual_sentiment": "neutral"
+  }
+]
